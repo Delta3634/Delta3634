@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delta3634" alt="delta3634" /></a> </p>    
 
-- 🌱 I’m currently learning **frontend and Scrapy**
-
-- 📫 How to reach me **dt05101400@gmail.com**      
+- 🌱 I’m currently learning **Javascript and Scrapy**      
+                           
              
 <p align="left">
 </p>
